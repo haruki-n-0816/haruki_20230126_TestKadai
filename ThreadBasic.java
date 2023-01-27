@@ -1,4 +1,3 @@
-
 class ThraedBasic {
     public static void main(String[] args) {
         var th1 = new MyThread();
